@@ -11,7 +11,7 @@ gem 'rails', '~> 5.2.3'
 gem 'pg'
 gem 'puma', '~> 3.11'
 
-gem 'carrierwave', '~> 2.0'
+gem 'carrierwave', '~> 2.1'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 # gem 'jbuilder', '~> 2.5'
 # Use Redis adapter to run Action Cable in production
